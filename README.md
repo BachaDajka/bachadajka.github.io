@@ -95,7 +95,7 @@
 <body>
     <div class="navbar">
         <a href="https://docs.google.com/forms/d/1kh43p-UwWmAmzgxVVvQyeZQXGBOshLdkyt3SL0mU1Ho/edit" target="_blank">Kontakt</a>
-        <a href="linki.html">Materiały</a>
+        <a href="linki.html">Linki</a>
         <a href="kontakt.html">O mnie</a>
     </div>
     
@@ -126,9 +126,21 @@
         <p>Chociaż gry komputerowe mogą być wciągające, to książki oferują nieporównywalnie głębsze przeżycia, które rozwijają naszą wyobraźnię i umiejętności intelektualne.</p>
         <img src="reading_graphic.jpg" alt="Porównanie książek i gier" class="rounded-image">
     </div>
+    
+    <div class="section">
+        <h2>Linki</h2>
+        <div class="decorative-line"></div>
+        <ul>
+            <li><a href="https://www.empik.com" target="_blank">Empik - Książki online</a></li>
+            <li><a href="https://lubimyczytac.pl" target="_blank">Lubimyczytać - Społeczność książkowa</a></li>
+            <li><a href="https://www.booklovers.pl" target="_blank">Booklovers - Recenzje książek</a></li>
+            <li><a href="https://www.biblioteka.pl" target="_blank">Biblioteka - Katalog książek</a></li>
+        </ul>
+    </div>
+
     <footer>
-        <p>&copy; 2025 Paulina Golec. Wszelkie prawa zastrzeżone.</p>
+        <p>&copy; 2025 Barbara Dajka. Wszelkie prawa zastrzeżone.</p>
+        <p><strong>Kontakt:</strong> 890653256</p>
     </footer>
 </body>
-</html>
 </html>
